@@ -4,5 +4,6 @@ public class t1 {
         System.out.println("master111");
         System.out.println("hot-fix111");
         System.out.println("push111");
+        System.out.println("push2222");
     }
 }
